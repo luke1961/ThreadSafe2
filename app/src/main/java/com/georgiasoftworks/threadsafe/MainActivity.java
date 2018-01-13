@@ -1,3 +1,7 @@
+/*
+ * Typed Linked Blocking Queue (concurrent implementation)
+ */
+
 package com.georgiasoftworks.threadsafe;
 
 import android.os.Handler;
