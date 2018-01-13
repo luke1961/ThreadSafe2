@@ -59,7 +59,6 @@ public class MainActivity extends AppCompatActivity {
         Count_C2_3 = (TextView)findViewById(R.id.c_2_3);
         Count_C3_3 = (TextView)findViewById(R.id.c_3_3);
 
-
         Producer1.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Produce(1, PRODUCE_COUNT);
